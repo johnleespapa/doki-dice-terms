@@ -12,3 +12,9 @@ Checked references (2026-11-07):
 - https://render.com/docs/static-sites
 
 Terms preserve mandatory consumer rights and do not introduce forced arbitration, blanket refund exclusions or cross-platform purchase promises. Content is based on the existing app/store records and privacy policy; this is not a jurisdiction-by-jurisdiction legal opinion.
+
+## Deployment
+
+Live: https://doki-dice-terms.onrender.com/
+
+Render service: `srv-dbnb4jjl550s73enbsqg`. Initial deploy: `dep-dbnb4jrl550s73enbvp0` (26.2 seconds, succeeded). Source is a public Git repository; the initial dashboard connection is public-repository mode, so subsequent changes may require Manual Deploy. The optional `render.yaml` is a reproducible Blueprint; dashboard-created services do not automatically inherit its custom headers.
